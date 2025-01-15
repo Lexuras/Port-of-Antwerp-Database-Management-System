@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXZAM_Haven-Domain", "LXZAM_Haven\LXZAM_Haven-Domain.csproj", "{16282BA5-5EC2-4CA3-820B-A3D2F40905DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXZAM_Haven-Forms", "LXZAM_Haven-Forms\LXZAM_Haven-Forms.csproj", "{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16282BA5-5EC2-4CA3-820B-A3D2F40905DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16282BA5-5EC2-4CA3-820B-A3D2F40905DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16282BA5-5EC2-4CA3-820B-A3D2F40905DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16282BA5-5EC2-4CA3-820B-A3D2F40905DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58021AAC-3753-49C0-9010-922C4FA14781}
+	EndGlobalSection
+EndGlobal

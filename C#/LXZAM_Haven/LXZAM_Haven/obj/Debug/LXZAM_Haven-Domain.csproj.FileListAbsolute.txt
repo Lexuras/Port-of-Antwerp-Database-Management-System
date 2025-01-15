@@ -1,0 +1,68 @@
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.pdb
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Memory.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Numerics.Vectors.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Buffers.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.xml
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.AssemblyReference.cache
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CoreCompileInputs.cache
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CopyComplete
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.dll
+E:\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.pdb
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.pdb
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Memory.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Buffers.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.xml
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.AssemblyReference.cache
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CoreCompileInputs.cache
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CopyComplete
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\test nov\ADO.net\Methode 3\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.pdb
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.pdb
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Buffers.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.xml
+E:\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.AssemblyReference.cache
+E:\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CoreCompileInputs.cache
+E:\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CopyComplete
+E:\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.pdb
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Memory.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.pdb
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Memory.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Buffers.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.xml
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.AssemblyReference.cache
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CoreCompileInputs.cache
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CopyComplete
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\basis\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.pdb
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\LXZAM_Haven.pdb
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Memory.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\System.Buffers.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\bin\Debug\MySql.Data.xml
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.AssemblyReference.cache
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven-Domain.csproj.CoreCompileInputs.cache
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Ha.E34494F4.Up2Date
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.dll
+C:\Users\s2100868\Desktop\VersieMaart\LXZAM_Haven\LXZAM_Haven\obj\Debug\LXZAM_Haven.pdb

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9CDD401-2E71-4B6C-B08A-EF800F2A332C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LXZAM_Haven_Forms</RootNamespace>
+    <AssemblyName>LXZAM_Haven-Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hoofdforum\frmBeginScherm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoofdforum\frmBeginScherm.Designer.cs">
+      <DependentUpon>frmBeginScherm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmHavenOpRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmHavenOpRoute.Designer.cs">
+      <DependentUpon>frmHavenOpRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmHavens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmHavens.Designer.cs">
+      <DependentUpon>frmHavens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmProducten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmProducten.Designer.cs">
+      <DependentUpon>frmProducten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmProductOpProductPerRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmProductOpProductPerRoute.Designer.cs">
+      <DependentUpon>frmProductOpProductPerRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmRouteOpProductPerRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmRouteOpProductPerRoute.Designer.cs">
+      <DependentUpon>frmRouteOpProductPerRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmSchepen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoofdtabellen\frmSchepen.Designer.cs">
+      <DependentUpon>frmSchepen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmSchipOpRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koppeltabellen\frmSchipOpRoute.Designer.cs">
+      <DependentUpon>frmSchipOpRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Hoofdforum\frmBeginScherm.resx">
+      <DependentUpon>frmBeginScherm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Koppeltabellen\frmHavenOpRoute.resx">
+      <DependentUpon>frmHavenOpRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoofdtabellen\frmHavens.resx">
+      <DependentUpon>frmHavens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoofdtabellen\frmProducten.resx">
+      <DependentUpon>frmProducten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Koppeltabellen\frmProductOpProductPerRoute.resx">
+      <DependentUpon>frmProductOpProductPerRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Koppeltabellen\frmRouteOpProductPerRoute.resx">
+      <DependentUpon>frmRouteOpProductPerRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoofdtabellen\frmSchepen.resx">
+      <DependentUpon>frmSchepen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Koppeltabellen\frmSchipOpRoute.resx">
+      <DependentUpon>frmSchipOpRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LXZAM_Haven\LXZAM_Haven-Domain.csproj">
+      <Project>{16282ba5-5ec2-4ca3-820b-a3d2f40905dc}</Project>
+      <Name>LXZAM_Haven-Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\havenlogo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
