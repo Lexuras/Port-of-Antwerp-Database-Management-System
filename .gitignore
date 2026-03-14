@@ -18,6 +18,7 @@ packages/
 *.nupkg
 .nuget/
 project.lock.json
+*.lock.json
 
 # Compiled binaries
 *.dll
