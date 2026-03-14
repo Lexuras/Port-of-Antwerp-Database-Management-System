@@ -1,0 +1,36 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.sdf
+*.cachefile
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+project.lock.json
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
