@@ -144,7 +144,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LXZAM_Haven\LXZAM_Haven-Domain.csproj">
+    <ProjectReference Include="..\LXZAM_Haven-Domain\LXZAM_Haven-Domain.csproj">
       <Project>{16282ba5-5ec2-4ca3-820b-a3d2f40905dc}</Project>
       <Name>LXZAM_Haven-Domain</Name>
     </ProjectReference>
